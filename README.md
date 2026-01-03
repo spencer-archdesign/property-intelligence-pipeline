@@ -149,8 +149,7 @@ All outputs are derived and reproducible.
     ├── data-flow.mmd
     └── entity-resolution.mmd
 ```
-
-⸻
+---
 
 # Status
 
@@ -158,7 +157,7 @@ This repository documents a production-proven architectural pattern implemented 
 
 Implementation details evolve independently.
 
-⸻
+---
 
 # Non-Goals
    -	CRM replacement
