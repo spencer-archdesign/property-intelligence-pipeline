@@ -163,5 +163,5 @@ Implementation details evolve independently.
 # Non-Goals
    -	CRM replacement
    -	Outreach automation
-	-	Ownership adjudication
-	-	Marketing analytics
+   -	Ownership adjudication
+   -	Marketing analytics
