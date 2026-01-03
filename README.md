@@ -148,3 +148,20 @@ All outputs are derived and reproducible.
     ├── system-context.mmd
     ├── data-flow.mmd
     └── entity-resolution.mmd
+```
+
+⸻
+
+# Status
+
+This repository documents a production-proven architectural pattern implemented within an existing FileMaker-based platform.
+
+Implementation details evolve independently.
+
+⸻
+
+# Non-Goals
+   -	CRM replacement
+   -	Outreach automation
+	-	Ownership adjudication
+	-	Marketing analytics
