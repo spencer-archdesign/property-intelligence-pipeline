@@ -1,0 +1,5 @@
+flowchart LR
+  Names[Entity Name Variants] --> Normalize[Normalize Names]
+  Normalize --> Alias[Alias Table]
+  Alias --> Resolve[Entity Resolution]
+  Resolve --> Confidence[Confidence Score]
