@@ -1,0 +1,23 @@
+{
+  "handoff_id": "SALES-HANDOFF-2024-Q4-BK-01",
+  "generated_at": "2024-11-05T09:00:00Z",
+  "territory": "Brooklyn - Central",
+  "criteria": {
+    "min_residential_units": 50,
+    "max_residential_units": 300,
+    "borough": "Brooklyn"
+  },
+  "targets": [
+    {
+      "bbl": "3012340001",
+      "address": "123 Example Ave, Brooklyn, NY",
+      "entity_name": "ABC PROPERTY MANAGEMENT",
+      "residential_units": 96,
+      "rationale": [
+        "Mid-size residential building",
+        "Part of larger managed portfolio",
+        "Located in high-priority territory"
+      ]
+    }
+  ]
+}
