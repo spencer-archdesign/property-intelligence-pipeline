@@ -1,0 +1,14 @@
+{
+  "source": "PLUTO",
+  "ingestion_run_id": "pluto-2024-11-01",
+  "bbl": "3012340001",
+  "bin": "1076543",
+  "address": "123 Example Ave",
+  "borough": "Brooklyn",
+  "block": "1234",
+  "lot": "1",
+  "land_use": "RM",
+  "gross_sqft": 84250,
+  "residential_units": 96,
+  "year_built": 1931
+}
