@@ -1,0 +1,6 @@
+flowchart LR
+  Sources[Public Data Sources] --> Ingest[Ingestion Layer]
+  Ingest --> Normalize[Normalization]
+  Normalize --> Resolve[Entity Resolution]
+  Resolve --> Index[Property Intelligence Index]
+  Index --> Sales[Sales Handoff Outputs]
