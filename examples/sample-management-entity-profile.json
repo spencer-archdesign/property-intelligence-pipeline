@@ -1,0 +1,18 @@
+{
+  "entity_id": "ENT-000742",
+  "entity_name_canonical": "ABC PROPERTY MANAGEMENT",
+  "entity_aliases": [
+    "ABC Property Mgmt, LLC",
+    "ABC Property Management LLC",
+    "ABC Prop Mgmt"
+  ],
+  "portfolio_summary": {
+    "building_count": 14,
+    "total_residential_units": 1124,
+    "total_gross_sqft": 912300
+  },
+  "geographic_distribution": {
+    "Brooklyn": 9,
+    "Queens": 5
+  }
+}
