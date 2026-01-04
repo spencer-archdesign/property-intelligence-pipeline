@@ -1,0 +1,12 @@
+{
+  "bbl": "3012340001",
+  "entity_id": "ENT-000742",
+  "match_type": "DIRECT_BBL_JOIN",
+  "confidence_score": 0.95,
+  "explanation": [
+    "Exact BBL match between PLUTO and Registration Contacts",
+    "Normalized entity name matched existing alias",
+    "No conflicting managing agent records detected"
+  ],
+  "resolved_at": "2024-11-01T14:22:00Z"
+}
