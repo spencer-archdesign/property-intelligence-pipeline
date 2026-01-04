@@ -1,0 +1,15 @@
+{
+  "bbl": "3012340001",
+  "bin": "1076543",
+  "canonical_address": "123 Example Ave, Brooklyn, NY",
+  "borough": "Brooklyn",
+  "normalized_attributes": {
+    "gross_sqft": 84250,
+    "residential_units": 96,
+    "year_built": 1931
+  },
+  "source_records": [
+    "pluto-2024-11-01",
+    "reg-2024-11-01"
+  ]
+}
