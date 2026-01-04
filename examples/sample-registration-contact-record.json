@@ -1,0 +1,9 @@
+{
+  "source": "RegistrationContacts",
+  "ingestion_run_id": "reg-2024-11-01",
+  "bbl": "3012340001",
+  "entity_name_raw": "ABC Property Mgmt, LLC",
+  "entity_role": "Managing Agent",
+  "contact_address": "456 Office Blvd, New York, NY",
+  "contact_phone": "555-555-0199"
+}
