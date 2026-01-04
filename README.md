@@ -1,6 +1,6 @@
 # Property Intelligence Pipeline
 
-> *External data ingestion and entity-resolution pipeline for portfolio targeting*
+*External data ingestion and entity-resolution pipeline for portfolio targeting*
 
 ## Purpose
 
