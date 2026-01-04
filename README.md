@@ -1,6 +1,6 @@
 # Property Intelligence Pipeline
 
-*External data ingestion and entity-resolution pipeline for portfolio targeting*
+> *External data ingestion and entity-resolution pipeline for portfolio targeting*
 
 ## Purpose
 
@@ -128,10 +128,10 @@ All outputs are derived and reproducible.
 ├── README.md
 ├── decision-records/
 │   ├── ADR-0001-bbl-as-primary-identifier.md
-│   ├── ADR-0002-ingestion-update-strategy.md
-│   ├── ADR-0003-entity-resolution-and-normalization.md
+│   ├── ADR-0002-ingestion-and-update-strategy.md
+│   ├── ADR-0003-entity-resolution-and-name-normalization.md
 │   ├── ADR-0004-read-models-for-sales-handoff.md
-│   └── ADR-0005-data-quality-and-confidence.md
+│   └── ADR-0005-data-quality-and-confidence-tracking.md
 ├── docs/
 │   ├── system-context.md
 │   ├── data-model.md
@@ -151,7 +151,7 @@ All outputs are derived and reproducible.
 ```
 ---
 
-# Status
+## Status
 
 This repository documents a production-proven architectural pattern implemented within an existing FileMaker-based platform.
 
@@ -159,8 +159,8 @@ Implementation details evolve independently.
 
 ---
 
-# Non-Goals
-   -	CRM replacement
-   -	Outreach automation
-   -	Ownership adjudication
-   -	Marketing analytics
+## Non-Goals
+- CRM replacement
+- Outreach automation
+- Ownership adjudication
+- Marketing analytics
